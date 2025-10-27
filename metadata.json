@@ -1,0 +1,5 @@
+{
+  "name": "Smart Resume Screener",
+  "description": "An AI-powered resume screening platform that compares a candidate’s resume with a given job description and provides a match score, missing skills, and improvement suggestions.",
+  "requestFramePermissions": []
+}
